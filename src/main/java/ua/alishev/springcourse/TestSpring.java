@@ -15,7 +15,7 @@ public class TestSpring {
         System.out.println( " Name of MusicPlayer : " +musicalPlayer.getName());
         System.out.println(" Value =  "  +musicalPlayer.getValue());
         System.out.println(" Value =  "  +musicalPlayer.getValue()); //!
-
+        System.out.println();//!!
 
         context.close();
     }
